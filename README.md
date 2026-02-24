@@ -1,2 +1,22 @@
 # SMART-SORTING
- This project introduces Smart Sorting, a computer vision solution that utilizes Transfer Learning to detect and classify spoiled fruits and vegetables.
+ **This project introduces Smart Sorting, a computer vision solution that utilizes Transfer Learning to detect and classify spoiled fruits and vegetables.
+Smart-Sorting-Transfer-Learning-for-Identifying-Rotten-Fruits-and-Vegetables
+Smart Sorting is a lightweight, deep learning–based tool that simplifies the task of identifying spoiled fruits and vegetables from images. By combining transfer learning with an intuitive web interface, it delivers instant freshness insights—helping users make quick, confident decisions and cut down on food waste
+
+Features
+Predicts freshness from images in real time
+Lightweight interface using HTML
+Flask backend with a pre-trained MobileNetV2 model
+How to Run
+Clone the repository
+Install requirements using pip
+Run app.py
+Open http://localhost:5000 in your browser
+Upload an image and view the prediction
+Project Highlights
+Model Accuracy: 95.6%
+Frameworks: Flask, TensorFlow, Keras
+Deployment: Web app and offline executable
+Target Users: Vendors, consumers, warehouse managers
+**Team**
+
